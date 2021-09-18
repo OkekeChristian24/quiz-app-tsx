@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.4](https://github.com/OkekeChristian24/quiz-app-tsx/compare/v0.1.3...v0.1.4) (2021-09-18)
+
+
+### Bug Fixes
+
+* make the warn notification toggleable ([e733c25](https://github.com/OkekeChristian24/quiz-app-tsx/commit/e733c2505f5800929a72e94ece5c58f4966ef6c5))
+
 ### [0.1.3](https://github.com/OkekeChristian24/quiz-app-tsx/compare/v0.1.2...v0.1.3) (2021-09-18)
 
 ### [0.1.2](https://github.com/OkekeChristian24/quiz-app-tsx/compare/v0.1.1...v0.1.2) (2021-09-18)
