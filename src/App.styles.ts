@@ -4,7 +4,7 @@ export const GlobalStyle = createGlobalStyle`
   
 
   body {
-    background-image: url(bg-image2.jpg) center center fixed;
+    background: url(bg-image2.jpg);
     background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
