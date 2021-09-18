@@ -113,7 +113,7 @@ const App: React.FC = () => {
       <Wrapper>
         <h4>General Knowledge Quiz</h4>
         <h5><a href="https://github.com/OkekeChristian24/quiz-app-tsx" target="_blank" rel="noreferrer noopener">By Okeke Christian</a> </h5>
-        <div className="show-warn">
+        <div className={showWarn ? "show-warn" : "hide-warn"}>
           <img src="./stop-icon.png" alt="Stop icon"/>
           <p> Please set the no. of questions and difficulty level</p>
         </div>
