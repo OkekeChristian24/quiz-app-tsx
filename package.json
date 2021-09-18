@@ -1,7 +1,7 @@
 {
   "homepage": "https://OkekeChristian24.github.io/quiz-app-tsx",
   "name": "quiz-app-tsx",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -27,7 +27,6 @@
     "release": "standard-version",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": [
