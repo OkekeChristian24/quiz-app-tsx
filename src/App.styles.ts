@@ -134,4 +134,19 @@ export const Wrapper = styled.div`
       font-size: 16px;
     }
   }
+
+  @media all and (max-width: 480px) {
+    .show-warn, .hide-warn{
+      width: 95%;
+    }
+
+    .show-warn p, .hide-warn p{
+      font-size: 14px;
+    }
+
+    .show-warn img, .hide-warn img{
+      width: 20px;  
+    }
+  
+  }
 `;
