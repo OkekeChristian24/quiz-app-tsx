@@ -4,8 +4,12 @@ export const GlobalStyle = createGlobalStyle`
   
 
   body {
-    background-image: url(bg-image2.jpg);
+    background-image: url(bg-image2.jpg) center center fixed;
     background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     margin: 0;
     padding: 0 20px;
     display: flex;
