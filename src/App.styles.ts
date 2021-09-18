@@ -5,6 +5,7 @@ export const GlobalStyle = createGlobalStyle`
 
   body {
     background-image: url(bg-image2.jpg);
+    background-repeat: no-repeat;
     margin: 0;
     padding: 0 20px;
     display: flex;
